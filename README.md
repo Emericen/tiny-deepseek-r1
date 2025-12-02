@@ -2,7 +2,7 @@
     &nbspEnglish&nbsp | <a href="README_CN.md">中文</a>
 </p>
 
-# ✨ DeepSeek R1
+# ✨ Tiny DeepSeek R1
 
 This repo contains a minimal implementation of DeepSeek R1, a model trained via large-scale reinforcement learning (RL) to execute Chain-of-Thought reasoning.
 
